@@ -1,4 +1,4 @@
-# Improved Keto Honey Garlic Shrimp
+# Honey Garlic Shrimp
 
 A quick, flavorful keto dish with succulent shrimp in a rich, garlicky butter sauce, balanced with tangy lemon and a hint of sweetness.
 
