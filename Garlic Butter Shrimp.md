@@ -1,4 +1,4 @@
-# Garlic Butter Shrimp Recipe
+# Garlic Butter Shrimp
 
 A quick and flavorful shrimp dish with garlic, butter, and a hint of wine, perfect for a weeknight dinner.
 
