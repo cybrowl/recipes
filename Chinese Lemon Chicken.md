@@ -1,4 +1,4 @@
-#  Chinese Lemon Chicken
+# Chinese Lemon Chicken
 
 A tangy, keto-friendly dish with crispy chicken coated in a zesty lemon sauce, perfect for a low-carb dinner.
 
@@ -9,7 +9,6 @@ A tangy, keto-friendly dish with crispy chicken coated in a zesty lemon sauce, p
 - 1 medium egg
 - 1 tablespoon soy sauce (or tamari for gluten-free)
 - 1 tablespoon Chinese Shaoxing wine (or dry sherry, optional for strict keto)
-- 1/4 cup almond flour (for coating)
 - 4 tablespoons avocado oil (or coconut oil, for frying)
 
 ### Lemon Sauce
@@ -31,8 +30,7 @@ A tangy, keto-friendly dish with crispy chicken coated in a zesty lemon sauce, p
 
 ### Prepare the Chicken
 1. **Marinate**: In a large shallow bowl, whisk together 1 medium egg, 1 tablespoon soy sauce, and 1 tablespoon Shaoxing wine (or dry sherry). Add chicken pieces, mix well, cover, and marinate for 20 minutes.
-2. **Coat**: Spread 1/4 cup almond flour on a large baking tray. Add marinated chicken and toss to coat evenly, pressing lightly to adhere almond flour.
-3. **Fry**: Heat 4 tablespoons avocado oil in a large wok or skillet over medium-high heat (325°F or 165°C). Fry chicken in batches, in a single layer, for 5-6 minutes, turning halfway, until golden and cooked through. Drain on a paper towel-lined plate. Discard oil and wipe the wok clean.
+2. **Fry**: Heat 4 tablespoons avocado oil in a large wok or skillet over medium-high heat (325°F or 165°C). Fry chicken in batches, in a single layer, for 5-6 minutes, turning halfway, until golden and cooked through. Drain on a paper towel-lined plate. Discard oil and wipe the wok clean.
 
 ### Make the Lemon Sauce
 1. **Sauté**: Heat 1/2 tablespoon avocado oil in the wok over medium-high heat. Add 1.5 teaspoons minced garlic and sauté until fragrant (about 30 seconds).
@@ -46,7 +44,6 @@ A tangy, keto-friendly dish with crispy chicken coated in a zesty lemon sauce, p
 ## Tools Needed
 - Large shallow bowl
 - Whisk
-- Large baking tray
 - Large wok, pan, or skillet
 - Paper towels
 - Plate
@@ -56,3 +53,4 @@ A tangy, keto-friendly dish with crispy chicken coated in a zesty lemon sauce, p
 - Adjust erythritol or monk fruit sweetener to balance the sauce’s tanginess.
 - For strict keto, omit Shaoxing wine or use a splash of dry sherry with negligible carbs.
 - Serve with cauliflower rice or steamed low-carb vegetables like broccoli or zucchini.
+- Without the almond flour coating, the chicken will be less crispy but still flavorful due to the marinade and sauce.
