@@ -1,4 +1,4 @@
-# Improved Keto Garlic Herb Butter Steaks
+# Improved Garlic Herb Butter Steaks
 
 Juicy, tender steaks seared to perfection and topped with a rich, garlicky herb-infused butter, perfect for a keto-friendly, high-fat meal.
 

@@ -1,4 +1,4 @@
-# Keto Chile Rellenos with Green Bell Peppers (4 servings)
+# Chile Rellenos with Green Bell Peppers (4 servings)
 
 A low-carb riff on classic chile rellenos—crispy egg-coated peppers filled with cheese (and meat, if you like)—no deep-frying required.
 

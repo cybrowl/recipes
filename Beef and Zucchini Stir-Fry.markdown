@@ -1,4 +1,4 @@
-# Keto Beef and Zucchini Stir-Fry
+#  Beef and Zucchini Stir-Fry
 
 A quick, savory, and low-carb stir-fry with tender beef and crisp zucchini, packed with umami flavors, perfect for a keto-friendly meal.
 
