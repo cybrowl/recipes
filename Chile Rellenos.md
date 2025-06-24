@@ -1,88 +1,104 @@
-# Keto Chile Rellenos (4 servings)
+# Keto Chile Rellenos with Green Bell Peppers (4 servings)
 
-A low-carb take on classic chile rellenos—crispy, cheesy, and packed with flavor, no breading or deep-frying required.
+A low-carb riff on classic chile rellenos—crispy egg-coated peppers filled with cheese (and meat, if you like)—no deep-frying required.
 
 ## Ingredients
 
 ### Peppers & Filling
-- **4 large poblano peppers**
-- **1 cup shredded Monterey Jack** (or Pepper Jack for extra heat)
-- **1 cup shredded cooked chicken** *or* **ground beef** (optional, for added protein)
-- **1 Tbsp avocado oil** (or extra-virgin olive oil)
-- **Toothpicks** (to secure peppers, if needed)
+
+* **4 large green bell peppers**
+* **1 cup shredded Monterey Jack** (or Pepper Jack for extra heat)
+* **1 cup shredded cooked chicken** *or* **ground beef** (optional)
+* **1 Tbsp avocado oil** (or extra-virgin olive oil)
+* **Toothpicks** (if needed to secure)
 
 ### Egg Coating
-- **4 large eggs**, separated
-- **¼ tsp cream of tartar** (for stabilizing egg whites)
-- **½ tsp salt** (divided)
-- **½ tsp garlic powder**
-- **½ tsp ground cumin**
+
+* **4 large eggs**, separated
+* **¼ tsp cream of tartar**
+* **½ tsp salt**, divided
+* **½ tsp garlic powder**
+* **½ tsp ground cumin**
 
 ### Sauce & Topping
-- **1 cup keto-friendly tomato sauce** *or* **sugar-free salsa**
-- **¼ cup grated cheddar cheese** (optional topping)
+
+* **1 cup keto-friendly tomato sauce** *or* **sugar-free salsa**
+* **¼ cup grated cheddar cheese** (optional)
+
+---
 
 ## Instructions
 
-### Roast & Prep the Poblanos
-1. **Roast**: Preheat oven to **400 °F (200 °C)**. Place whole poblano peppers on a baking sheet and roast for **15–20 minutes**, turning every 5 minutes, until skins are charred and blistered.
-2. **Steam**: Transfer hot peppers to a large bowl, cover with plastic wrap (or a damp kitchen towel), and let steam for **10 minutes**.
-3. **Peel & Clean**: Gently peel off blistered skin. Make a lengthwise slit in each pepper, remove seeds and membranes, keeping pepper intact. Set aside.
+### 1. Roast & Prep the Bell Peppers
 
-> **Tip**: Don’t rinse peppers under water to preserve smoky flavor. Use a dry paper towel for stubborn skin.
+1. **Preheat** oven to **400 °F (200 °C)**.
+2. **Roast** peppers on a baking sheet for **18–22 minutes**, turning every 6 minutes, until skins are evenly blistered.
+3. **Steam**: Transfer to a bowl and cover with a damp towel (or plastic wrap) for **10 minutes**.
+4. **Peel & Core**: Gently remove skins. Slice a lengthwise slit, scoop out seeds and membranes (leave pepper intact). Pat dry inside and out.
 
-### Prepare the Filling
-1. **Mix**: In a medium bowl, combine **1 cup shredded Monterey Jack** (or Pepper Jack), **1 cup shredded chicken or ground beef** (if using), and **⅛ tsp salt** (reserve remaining ⅜ tsp for egg yolks).
-2. **Stuff**: Stuff each poblano with ¼ of the filling, pressing gently to maintain shape. Secure slits with toothpicks if needed.
+> *Dry thoroughly to help the egg batter stick.*
 
-### Whip & Fold the Eggs
-1. **Beat Whites**: In a clean bowl, beat **egg whites** with **¼ tsp cream of tartar** using a hand mixer until **stiff peaks** form.
-2. **Mix Yolks**: In another bowl, whisk **4 egg yolks**, **½ tsp garlic powder**, **½ tsp ground cumin**, and remaining **⅜ tsp salt**.
-3. **Fold**: Gently fold yolk mixture into whipped whites with a spatula until no streaks remain.
+### 2. Make the Filling
 
-> **Tip**: Keep batter light and fluffy for best coating—avoid over-folding.
+1. In a medium bowl, **mix**:
 
-### Pan-Fry the Coated Peppers
-1. **Heat**: Heat **1 Tbsp avocado oil** in a large nonstick or cast-iron skillet over **medium heat**.
-2. **Coat & Fry**: Dip each stuffed poblano in the egg mixture, coating all sides. Fry for **2–3 minutes per side** until golden-brown and egg coating is set.
-3. **Transfer**: Place fried peppers in a baking dish, spacing evenly.
+   * 1 cup Monterey Jack (or Pepper Jack)
+   * 1 cup shredded chicken or ground beef (if using)
+   * ⅛ tsp salt (reserve remaining ⅜ tsp for eggs)
+2. **Stuff** each pepper with ¼ of the cheese/meat mixture. Secure edges with toothpicks if needed.
 
-> **Tip**: Fry in batches to avoid crowding and ensure even browning.
+### 3. Whip & Fold the Eggs
 
-### Bake with Sauce & Cheese
-1. **Prep**: Preheat oven to **375 °F (190 °C)**. Pour **1 cup keto-friendly tomato sauce** (or sugar-free salsa) over peppers. Sprinkle with **¼ cup grated cheddar** (if using).
-2. **Bake**: Bake for **15 minutes**, until sauce bubbles and cheese melts.
+1. In a clean bowl, **beat** egg whites + ¼ tsp cream of tartar until **stiff peaks** form.
+2. In another bowl, **whisk** egg yolks + ½ tsp garlic powder + ½ tsp ground cumin + remaining ⅜ tsp salt.
+3. **Fold** yolk mixture into whites until just combined—keep it fluffy.
 
-> **Make-Ahead**: Assemble through step 4, refrigerate up to 4 hours, and bake from fridge, adding **5 minutes** to bake time.
+> *Gently fold to preserve volume.*
+
+### 4. Pan-Fry the Peppers
+
+1. **Heat** 1 Tbsp avocado oil in a large nonstick or cast-iron skillet over **medium**.
+2. **Coat** each stuffed pepper in the egg batter, then **fry** 2–3 minutes per side until golden.
+3. **Transfer** to a baking dish in a single layer.
+
+> *Fry in batches to avoid crowding.*
+
+### 5. Bake with Sauce & Cheese
+
+1. **Preheat** oven to **375 °F (190 °C)**.
+2. **Pour** 1 cup tomato sauce (or salsa) over peppers. Sprinkle with ¼ cup cheddar.
+3. **Bake** 15 minutes, until sauce bubbles and cheese melts.
+
+> **Make-Ahead**: Assemble through step 4, refrigerate up to 4 hours. From cold, add 5 minutes to bake time.
+
+---
 
 ## Tools Needed
-- Baking sheet
-- Large bowl (with cover)
-- 2 mixing bowls
-- Hand mixer (or whisk)
-- Large nonstick or cast-iron skillet
-- Baking dish (for 4 peppers)
+
+* Baking sheet
+* Large bowl with cover
+* 2 mixing bowls
+* Hand mixer (or whisk)
+* Large nonstick or cast-iron skillet
+* Baking dish
+
+---
 
 ## Macros (per pepper, no meat)
-| Nutrient  | Amount     |
-|-----------|------------|
-| Calories  | ~220 kcal  |
-| Net Carbs | ~4 g       |
-| Protein   | ~12 g      |
-| Fat       | ~17 g      |
 
-> **Note**: Adding chicken or beef increases protein by ~8–10 g per serving.
+| Nutrient  | Amount     |
+| --------- | ---------- |
+| Calories  | \~235 kcal |
+| Net Carbs | \~3 g      |
+| Protein   | \~12 g     |
+| Fat       | \~18 g     |
+
+> *Switching to green bell adds about +1 g net carb and +9 kcal per pepper versus poblanos.*
+
+---
 
 ## Variations & Tips
-- **Dairy-Free**: Use vegan cheddar or omit cheese. Blend canned tomatoes, cauliflower, and vegan butter for a creamy sauce.
-- **Vegetarian**: Skip meat, increase cheese to **1½ cups**, or add taco-seasoned tofu or roasted cauliflower “rice.”
-- **Air Fryer**: Preheat to **375 °F (190 °C)**, spray peppers with avocado oil, air fry for **8 minutes**, flip, then **6 minutes**. Top with sauce and cheese, air fry for **4 minutes**.
-- **Spicy Sauce**: Add **1 tsp chipotle powder** or **½ tsp ancho chili powder** to sauce for a smoky kick.
-- **Make-Ahead**: Assemble through step 4, refrigerate up to **24 hours**, then bake as directed.
-- **Pro Tips**:
-  - Use **room-temperature eggs** for better whipping volume.
-  - No plastic wrap? Use a damp kitchen towel to steam peppers.
-  - Test pepper doneness with a fork—it should slide in easily.
-  - Bake within 5 minutes of adding sauce to avoid sogginess.
 
-Enjoy your **crispy, cheesy** keto chile rellenos, perfect for a flavorful low-carb dinner!
+* **Smoky boost**: Stir ½ tsp smoked paprika into egg yolks.
+* **Extra heat**: Add ¼ tsp chipotle powder or a dash of hot sauce to the filling.
+* **Air Fryer**: 375 °F for 8 min, flip, 6 min; top and air fry 4 more min.
