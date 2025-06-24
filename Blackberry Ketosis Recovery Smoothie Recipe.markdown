@@ -10,15 +10,14 @@ A low-carb, high-fat smoothie designed to support ketosis, replenish electrolyte
 - 1 scoop unflavored or vanilla keto-friendly protein powder (optional, for muscle recovery)
 - 1/2 tsp vanilla extract
 - 1/4 tsp regular table salt (for electrolytes)
-- 1/4 tsp potassium citrate powder (optional, for additional electrolytes)
 - 1 cup ice (adjust for desired thickness)
-- 1-2 tbsp erythritol or stevia (to taste, optional for sweetness)
+- 1-2 tbsp monk fruit sweetener (to taste, optional for sweetness)
 
 ## Instructions
 1. Add blackberries, almond milk, heavy cream, MCT oil, and ice to a blender.
-2. Include protein powder (if using), vanilla extract, salt, and potassium citrate.
+2. Include protein powder (if using), vanilla extract, and salt.
 3. Blend on high until smooth and creamy, about 30-60 seconds.
-4. Taste and add sweetener if desired, then blend briefly to combine.
+4. Taste and add monk fruit sweetener if desired, then blend briefly to combine.
 5. Pour into a glass and serve immediately.
 
 ## Nutritional Notes (Approximate, varies by brands)
