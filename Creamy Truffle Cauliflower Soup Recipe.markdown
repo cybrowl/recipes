@@ -1,10 +1,5 @@
 # Creamy Truffle Cauliflower Soup with Crispy Pancetta
 
-**Servings**: 4 (starter) or 2 (main)  
-**Net Carbs**: ~5g per serving  
-**Prep Time**: 15 minutes  
-**Cook Time**: 25 minutes  
-
 ## Ingredients
 
 ### Soup Base
