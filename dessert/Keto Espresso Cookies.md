@@ -1,6 +1,6 @@
 ### Keto Espresso Cookies
 
-*Designed for the **Breville Smart Oven® Air Fryer Pro** (model BOV900/BOV900BSS)*
+Designed for the **Breville Smart Oven® Air Fryer Pro**
 
 ---
 
@@ -8,20 +8,15 @@
 
 12 cookies – about 1 Tbsp (20 g) dough each
 
-#### Macros † (per cookie)
+## Macros Per Cookie
+- **Calories**: ≈ 105 kcal
+- **Fat**: 9 g
+- **Net Carbohydrates**: 1 ½ g
+- **Protein**: 3 g
 
-|   Calories | Fat | Protein | Total Carbs | Fiber | **Net Carbs** |
-| ---------: | --: | ------: | ----------: | ----: | ------------: |
-| ≈ 105 kcal | 9 g |     3 g |         3 g |  1½ g |      **1½ g** |
-
-†Calculated with almond flour, erythritol/monk-fruit blend, and Lily’s® sugar-free dark-chocolate chips. Adjust if you swap ingredients.
-
----
-
-#### Ingredients
+## Ingredients
 
 * **Dry**
-
   * 1 ½ cups (150 g) super-fine blanched almond flour
   * 2 Tbsp coconut flour
   * 2 Tbsp Dutch-process cocoa powder *(optional – gives a mocha vibe, omit for pure coffee flavor)*
@@ -30,19 +25,15 @@
   * ¼ tsp fine sea salt
   * ⅓ cup (65 g) erythritol/monk-fruit granulated sweetener
 * **Wet**
-
-  * ¼ cup (56 g) unsalted butter, melted & cooled to lukewarm
+  * 4 tablespoons (56 g), melted & cooled to lukewarm
   * 1 large egg, room temperature
   * 1 tsp vanilla extract
   * 1 Tbsp brewed espresso **or** heavy cream (adds moisture & extra flavor)
 * **Mix-ins (optional)**
-
   * ¼ cup (40 g) sugar-free dark-chocolate chips
   * 1 Tbsp MCT oil (for an extra fat boost; reduce butter to 3 Tbsp if you add this)
 
----
-
-#### Smart Oven Setup
+## Smart Oven Setup
 
 1. **Rack Position**  – Wire rack in **Position 3** (middle).
 2. **Function**       – Select **COOKIES** ⇒ 325 °F (165 °C).
@@ -54,7 +45,7 @@
 
 ---
 
-#### Method
+## Method
 
 1. **Prep tray**  Line the air-fry basket or the 13-in pizza pan with parchment (parchment keeps keto doughs from welding to the mesh).
 2. **Combine dry**  Whisk almond flour, coconut flour, cocoa, espresso powder, baking powder, salt, and sweetener until uniform.
@@ -72,15 +63,25 @@
 
 ---
 
-#### Flavor Tweaks
-
-| Variation                | How to do it                                                                                                        |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **Salted-Caramel Latte** | Sprinkle each cookie with a pinch of flaky salt & a few drops of sugar-free caramel syrup immediately after baking. |
-| **Peppermint Mocha**     | Replace vanilla with ⅛ tsp peppermint extract; keep cocoa in.                                                       |
-| **Hazelnut Espresso**    | Substitute 2 Tbsp almond flour with finely ground hazelnut flour; add ½ tsp hazelnut extract.                       |
-
----
+### Flavor Tweaks
+```JSON
+{
+  "Flavor Tweaks": [
+    {
+      "Variation": "Salted-Caramel Latte",
+      "How to do it": "Sprinkle each cookie with a pinch of flaky salt & a few drops of sugar-free caramel syrup immediately after baking."
+    },
+    {
+      "Variation": "Peppermint Mocha",
+      "How to do it": "Replace vanilla with ⅛ tsp peppermint extract; keep cocoa in."
+    },
+    {
+      "Variation": "Hazelnut Espresso",
+      "How to do it": "Substitute 2 Tbsp almond flour with finely ground hazelnut flour; add ½ tsp hazelnut extract."
+    }
+  ]
+}
+```
 
 ##### Tips for the Breville Smart Oven Air Fryer Pro
 

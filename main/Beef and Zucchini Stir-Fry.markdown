@@ -2,6 +2,12 @@
 
 A quick, savory, and low-carb stir-fry with tender beef and crisp zucchini, packed with umami flavors, perfect for a keto-friendly meal.
 
+## Macros Per Serving
+- **Calories**: 350 kcal
+- **Fat**: 25g
+- **Net Carbohydrates**: 5g
+- **Protein**: 22g
+
 ## Ingredients
 
 ### Meat
@@ -59,9 +65,3 @@ A quick, savory, and low-carb stir-fry with tender beef and crisp zucchini, pack
 - **Carbs**: Zucchini is low-carb; fish sauce and tamari have negligible carbs. Erythritol/monk fruit adds no net carbs.
 - **Fat**: Avocado oil and higher-fat beef align with keto’s high-fat needs.
 - **Protein**: Ground beef provides ample protein, keeping the dish balanced.
-
-## Macros Per Serving
-- **Calories**: 350 kcal
-- **Fat**: 25g
-- **Net Carbohydrates**: 5g
-- **Protein**: 22g
