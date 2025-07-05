@@ -17,13 +17,13 @@ Designed for the **Breville Smart Oven® Air Fryer Pro**
 ## Ingredients
 
 * **Dry**
-  * 1 ½ cups (150 g) super-fine blanched almond flour
-  * 2 Tbsp coconut flour
-  * 2 Tbsp Dutch-process cocoa powder *(optional – gives a mocha vibe, omit for pure coffee flavor)*
-  * 1 ½ tsp instant espresso powder (or very finely ground espresso)
-  * ½ tsp baking powder
-  * ¼ tsp fine sea salt
-  * ⅓ cup (65 g) erythritol/monk-fruit granulated sweetener
+  * 150 g super-fine blanched almond flour
+  * 14 g coconut flour
+  * 10 g Dutch-process cocoa powder *(optional – gives a mocha vibe, omit for pure coffee flavor)*
+  * 2 g instant espresso powder (or very finely ground espresso)
+  * 2 g baking powder
+  * 1 g fine sea salt
+  * 65 g erythritol/monk-fruit granulated sweetener
 * **Wet**
   * 4 tablespoons (56 g), melted & cooled to lukewarm
   * 1 large egg, room temperature
